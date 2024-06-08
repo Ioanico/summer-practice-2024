@@ -1,0 +1,12 @@
+#FabIcon {
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    margin: 2rem;
+}
+
+#modal-content {
+    display: flex;
+    flex-direction: column;
+    row-gap: 22px;
+}
